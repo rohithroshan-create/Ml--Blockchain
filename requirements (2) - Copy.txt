@@ -11,3 +11,4 @@ matplotlib
 seaborn
 openpyxl
 joblib
+google-generativeai
