@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+catboost
+lightgbm
+xgboost
+prophet
+tensorflow
+matplotlib
+seaborn
+openpyxl
+joblib
